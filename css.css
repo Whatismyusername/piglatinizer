@@ -1,0 +1,33 @@
+body{
+    background-image:url('http://jobsmalawi.info/wp-content/uploads/2017/12/professional-background-powerpoint-simple-powerpoint-background-professional-wallpaperinfinity-printable.jpg');
+    background-size:100% 150%;
+}
+h1{
+    text-align:center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:7vw;
+}
+h3{
+    text-align:center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:5vw;
+}
+p{
+    text-align:center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:5vw;
+}
+input{
+    width:80%;
+    text-align:center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:4vw;
+    border-radius:10%;
+}
+button{
+    width:15%;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size:4vw;
+    background-color:white;
+    border-radius:10%;
+}
